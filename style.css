@@ -74,5 +74,5 @@ input:checked~.lamp::before{
     box-shadow: 0px 2px 10px #ffffffcc,
                 0px 5px 50px #ffffffcc,
                 0px 8px 80px #ffffff99,
-                0px 8px 120px #ffffff99;
+                0px 12px 120px #ffffff99;
 }
